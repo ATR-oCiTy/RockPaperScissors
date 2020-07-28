@@ -6,4 +6,8 @@
 
 Download the dataset here 
 </br>
-__[Rock, Paper, Scissors dataset](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)__
+>__[Rock, Paper, Scissors dataset](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)__
+</br>
+Dataset .zip files must be placed in '/data/'
+
+***
